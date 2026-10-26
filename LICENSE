@@ -1,0 +1,137 @@
+# shu 模组许可协议 / shu Mod License
+
+**版本 / Version: 1.0**
+**适用对象 / Applies to: shu 模组（以下简称"本模组"）/ the shu mod (the "Mod")**
+**版权所有者 / Copyright holder: 戴远舰（daiyuanjian183）**
+
+---
+
+## 一、中文条款
+
+### 1. 授权范围
+
+在遵守本协议全部条款的前提下，任何人可以：
+
+- **使用**本模组，用于个人非商业性质的游戏娱乐；
+- **复制与转发**本模组的完整原始压缩包；
+- **基于本模组进行修改**，用于个人学习、研究或游戏体验。
+
+### 2. 使用条件
+
+行使上述授权时，你必须：
+
+- **保留署名**：保留本协议文件及原作者信息，不得移除或篡改；
+- **注明来源**：转发或再分发时，须注明原作者（戴远舰 / daiyuanjian183）及原始发布页面的链接；
+- **不得改变授权**：不得对修改后的版本施加比本协议更严格的限制。
+
+### 3. 明确禁止
+
+以下行为**未经书面许可一律禁止**：
+
+- **商业使用**：包括但不限于出售本模组、将本模组作为付费服务或商品的组成部分、在收费服务器上使用、通过捐赠或会员制变相获利；
+- **拆分贩卖**：将本模组中的任何部分单独提取后用于商业目的；
+- **冒充作者**：以任何方式声称本模组由你创作，或使用原作者名义发布其他内容；
+- **恶意修改**：加入恶意代码、后门、破坏性内容或收集用户信息的功能。
+
+### 4. 第三方组件
+
+本模组的发布包中打包分发了若干第三方 D2RLoader 插件。这些组件：
+
+- **版权归各自作者所有**，不受本协议约束；
+- **适用其原始许可条款**，你应自行查阅并遵守；
+- 本模组作者**不对其功能、安全性或合法性作出任何担保**。
+
+具体清单见 `README.md` 的「第三方组件」一节。
+
+### 5. 游戏资源声明
+
+本模组**不包含**任何 Blizzard Entertainment 的原始游戏资源，仅为游戏数据的覆盖层（overlay）。使用本模组需要你拥有合法的《暗黑破坏神 2：重制版》游戏副本。
+
+### 6. 免责声明
+
+**本模组按"现状"提供，不附带任何明示或默示的担保**，包括但不限于对适销性、特定用途适用性和非侵权性的担保。
+
+在适用法律允许的最大范围内，作者**不对因使用或无法使用本模组而产生的任何直接、间接、偶然、特殊或后果性损害承担责任**，包括但不限于：
+
+- 游戏存档损坏或丢失；
+- 游戏崩溃、无法启动或需要重装；
+- 账号受到游戏平台的处理；
+- 数据丢失或其他经济损失。
+
+**使用前请务必备份存档。**
+
+### 7. 协议终止
+
+你一旦违反本协议的任何条款，本协议授予的全部权利**立即自动终止**，你必须停止使用并删除本模组的所有副本。
+
+---
+
+## 二、English Terms
+
+### 1. Grant
+
+Subject to full compliance with this License, anyone may:
+
+- **Use** the Mod for personal, non-commercial gameplay;
+- **Copy and redistribute** the complete, unmodified original archive;
+- **Modify** the Mod for personal study, research, or gameplay.
+
+### 2. Conditions
+
+When exercising the above rights, you must:
+
+- **Preserve attribution**: keep this license file and the original author information intact;
+- **Credit the source**: when redistributing, credit the original author (戴远舰 / daiyuanjian183) and link to the original release page;
+- **Not tighten the terms**: do not apply stricter restrictions to modified versions than those in this License.
+
+### 3. Prohibited uses
+
+The following are **prohibited without prior written permission**:
+
+- **Commercial use**, including selling the Mod, bundling it into a paid product or service, using it on a paid server, or monetizing it through donations or membership schemes;
+- **Piecemeal resale**: extracting any part of the Mod for commercial purposes;
+- **Claiming authorship**: representing the Mod as your own work, or publishing other content under the original author's name;
+- **Malicious modification**: adding malware, backdoors, destructive content, or telemetry.
+
+### 4. Third-party components
+
+The release package bundles several third-party D2RLoader plugins. These components:
+
+- **Remain the property of their respective authors** and are not governed by this License;
+- **Are subject to their own original terms**, which you should review and follow;
+- Are provided **without any warranty** from the shu author as to function, safety, or legality.
+
+See the "Third-party components" section of `README.md` for the full list.
+
+### 5. Game assets
+
+The Mod **contains no original Blizzard Entertainment game assets**; it is a data overlay. Using it requires a legitimate copy of Diablo II: Resurrected.
+
+### 6. Disclaimer of warranty and liability
+
+**The Mod is provided "AS IS", without warranty of any kind**, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+To the maximum extent permitted by applicable law, the author **is not liable for any direct, indirect, incidental, special, or consequential damages** arising from the use of or inability to use the Mod, including but not limited to:
+
+- Corrupted or lost save files;
+- Game crashes, failure to launch, or need to reinstall;
+- Action taken against your account by the game platform;
+- Data loss or other economic loss.
+
+**Back up your saves before use.**
+
+### 7. Termination
+
+Your rights under this License **terminate automatically** upon any violation of its terms. You must then cease all use and delete all copies of the Mod.
+
+---
+
+## 三、关于许可证的选择说明
+
+本协议不是 OSI 认可的开源许可证，而是**面向游戏模组场景的自定义许可**。原因：
+
+1. 模组包含第三方二进制组件，无法以统一的 OSI 许可证授权；
+2. 模组依赖 Blizzard 的知识产权，不具备完全自由再许可的基础；
+3. 模组社区普遍期望"允许游玩与转发、禁止商业利用"。
+
+如果你希望以更宽松的方式授权自己原创的数据表部分，可以单独声明该部分适用 MIT 协议，但**不得延伸至第三方组件**。
