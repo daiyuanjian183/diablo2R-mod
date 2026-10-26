@@ -21,6 +21,18 @@ shu is a large-scale gameplay overhaul built around two ideas: rebuilding the fi
 
 ---
 
+## ⚠️ 仅限单机使用 / Offline use only
+
+> **本模组仅适用于离线（单机）模式。**
+>
+> **请勿在 Battle.net 官方服务器上使用 —— 包括天梯、公开游戏、组队、以及任何联网对局。D2RLoader 会修改游戏内存与数据表，官方服务可能检测到异常并对账号采取处理措施。这个风险由使用者自行承担。**
+
+> **This mod is for offline / single-player use only.**
+>
+> **Do not use it on official Battle.net servers — including ladder, public games, parties, or any online session. D2RLoader alters game memory and data tables; the official service may detect this and take action against your account. You assume this risk yourself.**
+
+---
+
 ## 核心特性 / Features
 
 ### 一、五大佣兵全面重做 / Five mercenaries reworked
@@ -69,6 +81,7 @@ shu is a large-scale gameplay overhaul built around two ideas: rebuilding the fi
 2. 将本模组解压到 `Diablo II Resurrected\mods\`，确保目录结构为 `mods\shu\shu.mpq`
 3. 启动 `D2RLoader.exe`，在设置中选择默认模组为 `shu`
 4. **首次使用前请备份存档**（见下方存档兼容性说明）
+5. **仅在离线模式下运行 —— 不要带着这个模组连 Battle.net 官方服务器**
 
 **English**
 
@@ -76,6 +89,7 @@ shu is a large-scale gameplay overhaul built around two ideas: rebuilding the fi
 2. Extract this mod into `Diablo II Resurrected\mods\` so the structure is `mods\shu\shu.mpq`
 3. Launch `D2RLoader.exe` and set the default mod to `shu`
 4. **Back up your saves before first use** (see save compatibility below)
+5. **Run offline only — never connect to official Battle.net with this mod loaded**
 
 ---
 
