@@ -5,7 +5,7 @@
 
 [![D2RLoader](https://img.shields.io/badge/D2RLoader-1.3.1-blue)](https://d2rloader.net)
 [![D2R](https://img.shields.io/badge/D2R-3.1.2-green)]()
-[![Version](https://img.shields.io/badge/version-0.6.01-orange)]()
+[![Version](https://img.shields.io/badge/version-0.6.06-orange)]()
 
 ---
 
