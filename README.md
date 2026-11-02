@@ -181,3 +181,33 @@ shu is a large-scale gameplay overhaul built around two ideas: rebuilding the fi
 **本模组为玩家自制（fan-made）内容，与 Blizzard Entertainment 无任何关联，未获其授权或认可。使用本模组需要你拥有合法的《暗黑破坏神 2：重制版》游戏副本。本模组不包含任何 Blizzard 的原始游戏资源。**
 
 *This is fan-made content, not affiliated with, authorized, or endorsed by Blizzard Entertainment. Using it requires a legitimate copy of Diablo II: Resurrected. This mod contains no original Blizzard game assets.*
+
+---
+
+## 开发基准 / Development Baseline
+
+**锁定版本：Diablo II: Resurrected 3.2.92777**
+
+| 项目 | 值 |
+| --- | --- |
+| 游戏版本 | 3.2.92777 |
+| 数据版本标记 | `Data/global/dataversionbuild.txt` = 92777 |
+| D2RLoader | 1.3.1 |
+| 存档格式 | extended |
+
+开发铁律：
+
+1. 一个版本一个安装，3.1.2（92198）环境已退役
+2. root 表与 `base/` 表必须同版本，`base/` 必须是 3.2.92777 原版
+3. 禁止跨版本拷表（3.1 表拷进 3.2 会造成隐性损坏）
+4. 改表后必须重新编译：游戏内 `d2rl compile shu`
+5. 提交前检查 `dataversionbuild.txt` 是否为 92777
+
+版本历史：
+
+| 版本 | 基准 | 状态 |
+| --- | --- | --- |
+| 0.6.01 ~ 0.6.08 | 3.1.2 (92198) | 已发布，已冻结 |
+| 0.6.09 | 3.2.92777 | 当前版本 |
+
+---
