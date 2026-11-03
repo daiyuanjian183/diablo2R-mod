@@ -5,7 +5,7 @@
 
 [![D2RLoader](https://img.shields.io/badge/D2RLoader-1.3.1-blue)](https://d2rloader.net)
 [![D2R](https://img.shields.io/badge/D2R-3.2.92777-green)]()
-[![Version](https://img.shields.io/badge/version-0.6.10-orange)]()
+[![Version](https://img.shields.io/badge/version-0.6.11-orange)]()
 
 ---
 
@@ -208,6 +208,6 @@ shu is a large-scale gameplay overhaul built around two ideas: rebuilding the fi
 | 版本 | 基准 | 状态 |
 | --- | --- | --- |
 | 0.6.01 ~ 0.6.08 | 3.1.2 (92198) | 已发布，已冻结 |
-| 0.6.10 | 3.2.92777 | 当前版本 |
+| 0.6.11 | 3.2.92777 | 当前版本 |
 
 ---
