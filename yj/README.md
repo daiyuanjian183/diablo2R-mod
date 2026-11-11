@@ -16,6 +16,7 @@ GitHub 里**不存 300 MB 的完整 mod**（体积太大），只存相对 jg �
 | `Data/global/dataversionbuild.txt` | 93854 → **95039**（与国服 3.4 客户端对齐，避免启动警告） |
 | `Data/global/ui/layouts/otherpanelhd.json` | 新增「第16赛季暗金调整（13件）」区块（标题 + 悬停列表） |
 | `Data/global/excel/sounds.txt` | 高号符文掉落音效调大：`high_rune24~33` 音量/优先级拉满、改为 2D 不衰减 |
+| `Data/global/excel/monstats2.txt` | 新增 10 种怪物的地图标记（毁灭骑士 / 大恶魔 / 指法师 / 污染者 / 牛王），图标 1468 白点 |
 | `Data/global/ui/layouts/checknewmodhd.json` | 「查看MOD最新版本」按钮指向本项目 GitHub Releases |
 | `Data/global/ui/layouts/linkmaxsockhd.json` | 去掉跳转 jg 踩蘑菇网站的链接 |
 | `modinfo.json` | `name=yj`，`savepath=../` |
