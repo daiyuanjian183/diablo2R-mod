@@ -1,22 +1,23 @@
 # yj mod（基于 JG-MOD 的覆盖层）
 
 国服《暗黑破坏神2：重制版》用的数据/界面 mod。整体结构与 **JG-MOD** 相同，
-在 jg 的基础上只改动了 9 个文件。
+在 jg 的基础上只改动了 10 个文件。
 
 ## 这个目录是什么
 
 GitHub 里**不存 300 MB 的完整 mod**（体积太大），只存相对 jg 的差异文件。
 完整包请自行用「jg + 本目录覆盖」生成，或用 Releases 里的打包版本。
 
-## 相对 jg 改动的文件（9 个）
+## 相对 jg 改动的文件（10 个）
 
 | 文件 | 改动 |
 | --- | --- |
-| `Data/Local/Lng/Strings/npcs.json` | MOD 信息页改为 YJ-MOD；永恒百科说明同步 3.4；其它页新增「第16赛季暗金调整」区块 |
+| `Data/Local/Lng/Strings/npcs.json` | MOD 信息页改为 YJ-MOD；永恒百科说明同步 3.4；其它页新增「第16赛季暗金调整」区块；催促（Hustle）百科修正与天梯说明 |
+| `Data/Local/Lng/Strings/item-runes.json` | Runeword171/172 名称由「狂乱/癫狂」修正为「催促（护甲）/催促（武器）」 |
 | `Data/global/dataversionbuild.txt` | 93854 → **95039**（与国服 3.4 客户端对齐，避免启动警告） |
 | `Data/global/ui/layouts/otherpanelhd.json` | 新增「第16赛季暗金调整（13件）」区块（标题 + 悬停列表） |
 | `Data/global/excel/sounds.txt` | 高号符文掉落音效调大：`high_rune24~33` 音量/优先级拉满、改为 2D 不衰减 |
-| `Data/global/excel/monstats2.txt` | 新增 10 种怪物的地图标记（毁灭骑士 / 大恶魔 / 指法师 / 污染者 / 牛王），图标 1468 白点 |
+| `Data/global/excel/monstats2.txt` | 全部 624 种怪物的地图标记（白点 1468），jg 原有旗子标记保留 |
 | `Data/global/ui/layouts/checknewmodhd.json` | 「查看MOD最新版本」按钮指向本项目 GitHub Releases |
 | `Data/global/ui/layouts/linkmaxsockhd.json` | 去掉跳转 jg 踩蘑菇网站的链接 |
 | `modinfo.json` | `name=yj`，`savepath=../` |
